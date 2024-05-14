@@ -1,0 +1,4 @@
+tests/reports
+.pytest_cache
+.idea
+
